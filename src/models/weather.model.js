@@ -1,0 +1,1 @@
+//destructuramos informacion para ver datos del dia de hoy del clima

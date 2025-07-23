@@ -1,0 +1,1 @@
+//informacion del los proximos dias del clima

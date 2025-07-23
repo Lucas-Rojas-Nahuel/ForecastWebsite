@@ -1,0 +1,1 @@
+//informacion detallada del clima del dia de hoy
